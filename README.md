@@ -29,6 +29,3 @@ There are several ways to run this system:
 Contributors:
 
 [@Aviv Eliyahu](https://github.com/aviveliyahu)
-[@Ariel Goldwaser](https://github.com/ArielGold1)
-[@Matan Asraf](https://github.com/matanasaraf)
-
