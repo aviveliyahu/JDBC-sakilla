@@ -1,4 +1,4 @@
-# JDBC sakilla DB titles 
+# JDBC Sakilla database
 ## Description
 An academic project written in Java, the code connects to the user's local Sakilla DB and using JDBC to retrieve information about actors and movies.
 
